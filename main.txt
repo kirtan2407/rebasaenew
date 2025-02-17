@@ -18,5 +18,10 @@ dev2
 
 
 
-changes for pull
+changes for 
+
+push changes1
+push changes2
+push changes3
+
 
