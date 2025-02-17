@@ -4,6 +4,10 @@ place : Surat
 hello
 
 
+dev
+
+
+dev2
 
 
 
@@ -12,4 +16,15 @@ hello
 
 
 
-changes for pull
+
+
+
+
+push changes1
+push changes2
+push changes3
+
+
+early push1
+early push2
+early push3
