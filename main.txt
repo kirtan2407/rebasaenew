@@ -4,7 +4,6 @@ place : Surat
 hello
 
 dev
-<<<<<<< HEAD
-=======
+
+
 dev2
->>>>>>> b694cd9 (add dev2)
